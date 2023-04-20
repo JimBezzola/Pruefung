@@ -1,0 +1,6 @@
+Aufbau einer URL (3 Punkte)
+Siehe Aufgabenstellung in istest2.
+Gegeben ist die folgende URL:
+https://rss.cnn.com/rss/en/cnn_world.rss
+Benennen Sie alle Bestandteile der URL nach dem Muster
+<Teil der URL>: <Benennung des Teils>
